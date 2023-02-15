@@ -1,0 +1,26 @@
+General, total number of users, 4
+General, total number of tasks, 8
+admin, total number of tasks, 3
+admin, number of complete tasks, 1
+admin, number of incomplete tasks, 2
+admin, number of overdue tasks, 2
+admin, percentage incomplete, 66.7%
+admin, percentage overdue, 66.7%
+jasmine_24601, total number of tasks, 2
+jasmine_24601, number of complete tasks, 1
+jasmine_24601, number of incomplete tasks, 1
+jasmine_24601, number of overdue tasks, 0
+jasmine_24601, percentage incomplete, 50.0%
+jasmine_24601, percentage overdue, 0.0%
+adam5000, total number of tasks, 2
+adam5000, number of complete tasks, 1
+adam5000, number of incomplete tasks, 1
+adam5000, number of overdue tasks, 0
+adam5000, percentage incomplete, 50.0%
+adam5000, percentage overdue, 0.0%
+leodoyle, total number of tasks, 1
+leodoyle, number of complete tasks, 1
+leodoyle, number of incomplete tasks, 0
+leodoyle, number of overdue tasks, 0
+leodoyle, percentage incomplete, 0.0%
+leodoyle, percentage overdue, 0.0%
